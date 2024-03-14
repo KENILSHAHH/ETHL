@@ -4,7 +4,7 @@ Follow the steps below to get started:
 
 Connect Wallet, Create a campaign, Fund your favourite campaign!, Bonus: Click Share to share their story on Warpcast!
 
-NFTMonkey contract deployed at [0x926f7f10ed1d3eacdf9a6477411a3af65e914699](https://sepolia.scrollscan.com/address/0x926f7f10ed1d3eacdf9a6477411a3af65e914699)
+NFTMonkey contract deployed at ScrollSepolia testnet [0x926f7f10ed1d3eacdf9a6477411a3af65e914699](https://sepolia.scrollscan.com/address/0x926f7f10ed1d3eacdf9a6477411a3af65e914699)
 
 
 Install dependencies:
